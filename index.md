@@ -33,7 +33,7 @@
 本文中に埋め込まれたリンクをクリックするとYouTubeとかに飛びます。聞いてみてね。
 
 - IV-V-VIm進行（ジゴロ進行）
-  - 王道進行IV-V-III-VImのIIIを省いたもの
+  - 短調の王道進行IV-V-III-VImのIIIを省いたもの
   - 力強く解決力の高い進行
   - 「女神転生」のBGMでよく用いられる（後述）
   - [「Over Soul」](https://www.youtube.com/watch?v=-VYMrLirXFY)など、たかはしごう作曲のアニソンによく使われる
@@ -51,11 +51,14 @@
   - 松居慶子の[「Deep Blue」](https://www.youtube.com/watch?v=pZQ3iEcTRrs)をはじめ、用例には事欠かない
     - 一番有名な曲は[「Hotel Carifornia」](https://www.youtube.com/watch?v=Br3KkvgMAZY)
     - 一番古い曲はおそらくバッハの[「G線上のアリア」](https://www.youtube.com/watch?v=thQWqRDZj7E)
-- Tresillo
+- Tresillo（トゥレシーヨ）
   - ♪. ♪. ♪（符点八分-符点八分-八分）のリズム
   - `ラテンアメリカ`発祥で、ジャズによく用いられる
+  - 元をたどると、`アフリカンビート`に帰結
+    - 四拍子の隙間（オフビート）に3連符を入れる[「二拍三連」](https://www.youtube.com/watch?v=uoOH9QCsdQQ)といったポリリズムの総称
+    - この「二拍三連」を表紙に合わせてクオンタイズしたものがTresillo
   - 普通のメロディをこのリズムに展開するだけでも、十分東方っぽくなる
-    - 後述のPia-no-jaC版「第9」を参照
+    - 後述の[Pia-no-jaC版「第9」](#4-1-pia-no-jac)を参照
 - ペンタトニックスケール
   - 一般的には、ジャズによく用いられる
   - 短調の場合は日本の民謡音階
@@ -85,7 +88,11 @@
 これらの要素から分かる通り、実は東方原曲って`「和風」一辺倒ではない`んですね。
 世界中の`様々なジャンル`の要素が混ざっていて、めちゃくちゃ`多国籍`で和洋折衷。もはや「東方」という新たなジャンルと言っても過言ではないくらい。
 
-ちなみに今のところ、ChatGPTやClaudeに「東方ProjectのBGMにおける特徴は？」と訊いてもこんな答えは返ってきません。他愛もない。AGIの実現はまだまだ先のようです。
+ちなみに今のところ、[ChatGPT](https://chatgpt.com/)や[Claude](https://claude.ai/)に「東方ProjectのBGMにおける特徴は？」と訊いてもこんな答えは返ってきません。他愛もない。AGIの実現はまだまだ先のようです。
+
+（追記）[Genspark](https://www.genspark.ai/)は良い線いってるけど、やっぱりTresilloが出てこない
+![Gensparkによる回答例](img/genspark.png)
+
 
 ## 2. ZUN曲のルーツ
 
@@ -101,7 +108,7 @@
   - とくに姫神については、東方旧作のころ曲コメントで何度も言及している程、お気に入りの様子。
 - テクノ（YMO、増子司、古代祐三）
   - 人生で初めて耳コピした曲が[女神転生IIの「Explorer」](https://www.youtube.com/watch?v=eYewll8nVqk)であると各所で語っています。
-    - IV-V-VIm進行は言わずもがな、夢時空・風神録・地霊殿の6ボス曲に使われるフレーズの元ネタです。
+    - IV-V-VIm進行は言わずもがな、夢時空・風神録・地霊殿の6面ボス曲に使われるフレーズの元ネタです。
   - 「東方」としての処女作である[「東方怪奇談」](https://www.youtube.com/watch?v=c-2v7Q7qCd0&pp=ygUP5p2x5pa55oCq5aWH6KuH)には、YMO[「RYDEEN」](https://www.youtube.com/watch?v=nB5g2cUM2FQ)のフレーズが思いっきり引用されています。
   - 古代祐三さんについては、[ご本人どうしも交流がある](https://x.com/yuzokoshiro/status/991958330808520704)そうです。
 - プログレッシブロック（植松伸夫、伊藤賢治）
