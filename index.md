@@ -35,7 +35,7 @@
 - IV-V-VIm進行（ジゴロ進行）
   - 短調の王道進行IV-V-III-VImのIIIを省いたもの
   - 力強く解決力の高い進行
-  - 「女神転生」のBGMでよく用いられる（後述）
+  - 「女神転生」のBGMでよく用いられる[（後述）](#2-zun曲のルーツ)
   - [「Over Soul」](https://www.youtube.com/watch?v=-VYMrLirXFY)など、たかはしごう作曲のアニソンによく使われる
 
 - VIm-V-VI-III進行（四段流し）
