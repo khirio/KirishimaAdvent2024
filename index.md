@@ -177,10 +177,10 @@ VirtualGuitaristのUltra（星蓮船でよく使われるギター音源）ら�
 
 ### 4-2. SEKAI NO OWARI
 ついついゲス不倫（ゲスの極み乙女。）と混同されがちなバンド。
-注目はこちらの[「Habitat」](https://music.amazon.co.jp/albums/B09XK11CHM?trackAsin=B09XJYQN35&ref=dm_sh_6e99-ee9d-958e-1972-ec604)です。
-最初から最後までずっと四段流し進行で構成される、珍しい曲。
+注目はこちらの[「Habit」](https://music.amazon.co.jp/albums/B09XK11CHM?trackAsin=B09XJYQN35&ref=dm_sh_6e99-ee9d-958e-1972-ec604)です。
+最初から最後までほとんどB♭m-G#-F#-Fの四段流し進行で構成される、珍しい曲。
 
-紅白歌合戦で流れたときは一瞬「あれ、なんで東方アレンジサークルがNHKホールに？」と思ったり思わなかったり。
+2022年の紅白歌合戦で流れたときは、一瞬「あれ、なんで東方アレンジサークルがNHKホールに？」と思ったり思わなかったり。
 
 ### 4-3. Hello Sleepwalkers
 沖縄出身のロックバンドです（ぜんぜん沖縄感ないけど）。
