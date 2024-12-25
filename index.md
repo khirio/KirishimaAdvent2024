@@ -141,7 +141,7 @@ TVから東方めいたフレーズが流れてくるの新鮮。
 ### 3-2. jizue
 
 fox capture planとかなり似た作風ですが、ヴァイオリンがあまり出てこなかったり、ギターの出番が多かったり、三拍子の曲が多いことが特徴です。
-NHKの[「ニュース7」](https://music.amazon.co.jp/albums/B01F1OEMJO?trackAsin=B01F1OEQJK&ref=dm_sh_acdb-19b7-50e8-b48d-4478b)やドラマ[「宙わたる教室」](https://music.amazon.co.jp/albums/B0DKP69CSX?ref=dm_sh_8a90-e015-92a2-9416-02ebc)などにもにも楽曲提供してます（NHKの回し者ではない）。
+NHKの「クローズアップ現代」のEDテーマ[「sakura」](https://music.amazon.co.jp/albums/B01F1OEMJO?trackAsin=B01F1OEQJK&ref=dm_sh_acdb-19b7-50e8-b48d-4478b)や、ドラマ[「宙わたる教室」](https://music.amazon.co.jp/albums/B0DKP69CSX?ref=dm_sh_8a90-e015-92a2-9416-02ebc)などにも楽曲提供しています（NHKの回し者ではない）。
 
 ### 3-3. SANOVA
 
