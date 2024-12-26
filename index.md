@@ -132,7 +132,7 @@
 
 ### 3-1. fox capture plan
 
-東方っぽい、といえば、まずこの人たちは外せません。ピアノ、ベース、ヴァイオリン、ドラムの4ピースを基本としつつ、ジャズ感強めで、テンポの速い曲が特徴のインストバンドです。
+東方っぽい、といえば、まずこの人たちは外せません（最近の曲はそうでもないけど）。ピアノ、ベース、ヴァイオリン、ドラムの4ピースを基本としつつ、ジャズ感強めで、テンポの速い曲が特徴のインストバンドです。
 [デビュー当時](https://music.amazon.co.jp/albums/B00UR86N3S?trackAsin=B00UR86OHS&ref=dm_sh_d3fc-01ee-ca69-941d-b70e6)からVI-V-VIm進行を使いこなしています。
 
 劇伴作曲家としても有名で、有名どころだと[「コンフィデンスマンJP」](https://music.amazon.co.jp/albums/B07D2GD42H?trackAsin=B07D2G6XXW&ref=dm_sh_779e-7667-376c-ca4b-b26c4)や[実写版「推しの子」](https://music.amazon.co.jp/albums/B0DMWBX476?ref=dm_sh_2e24-fb08-45b2-51cb-31641)の劇伴を担当してたりします。
@@ -141,7 +141,8 @@ TVから東方めいたフレーズが流れてくるの新鮮。
 ### 3-2. jizue
 
 fox capture planとかなり似た作風ですが、ヴァイオリンがあまり出てこなかったり、ギターの出番が多かったり、三拍子の曲が多いことが特徴です。
-NHKの「クローズアップ現代」のEDテーマ[「sakura」](https://music.amazon.co.jp/albums/B01F1OEMJO?trackAsin=B01F1OEQJK&ref=dm_sh_acdb-19b7-50e8-b48d-4478b)や、ドラマ[「宙わたる教室」](https://music.amazon.co.jp/albums/B0DKP69CSX?ref=dm_sh_8a90-e015-92a2-9416-02ebc)などにも楽曲提供しています（NHKの回し者ではない）。
+
+NHK「クローズアップ現代」のEDテーマ[「sakura」](https://music.amazon.co.jp/albums/B01F1OEMJO?trackAsin=B01F1OEQJK&ref=dm_sh_acdb-19b7-50e8-b48d-4478b)や、ドラマ[「宙わたる教室」](https://music.amazon.co.jp/albums/B0DKP69CSX?ref=dm_sh_8a90-e015-92a2-9416-02ebc)などにも楽曲提供しています（NHKの回し者ではない）。
 
 ### 3-3. SANOVA
 
@@ -155,7 +156,7 @@ VI-V-VIm進行・Tresillo・短調6度抜きをハイレベルに組み合わせ
 ### 3-4. 松谷卓
 
 ピアノを中心に置きつつ、どちらかというとテクノ寄りな感じです。
-「大改造！！劇的ビフォーアフター」の曲でおなじみの方ですが、注目してほしい曲はこちらの[「S」](https://music.amazon.co.jp/albums/B00FUYQYWY?trackAsin=B00FUYQZ8M&ref=dm_sh_ed15-7847-7bfe-ee9a-76296)。
+[「大改造！！劇的ビフォーアフター」](https://music.amazon.co.jp/albums/B0BPJMJWF1?ref=dm_sh_478c-0e6a-b72f-5c91-887b5)の曲でおなじみの方ですが、注目してほしい曲はこちらの[「S」](https://music.amazon.co.jp/albums/B00FUYQYWY?trackAsin=B00FUYQZ8M&ref=dm_sh_ed15-7847-7bfe-ee9a-76296)。
 四段流し進行や短三度転調など、随所に東方要素を見つけることができます。
 VirtualGuitaristのUltra（星蓮船でよく使われるギター音源）らしき音も出てくるし。
 
@@ -185,12 +186,15 @@ VirtualGuitaristのUltra（星蓮船でよく使われるギター音源）ら�
 
 ### 4-3. Hello Sleepwalkers
 沖縄出身のロックバンドです（ぜんぜん沖縄感ないけど）。
+~~[ウマ娘とジョジョ7部を混ぜたような曲](https://music.amazon.co.jp/albums/B0DHXLTP3T?trackAsin=B0DHXKBFZQ&ref=dm_sh_4fda-34f1-08d9-f2c4-1b5e9)も作ってます。~~
 
 すごいのはこちらの[「プロジェクト」](https://music.amazon.co.jp/albums/B0BJ6ZZRKY?trackAsin=B0BJ72MJSX&ref=dm_sh_09b9-ab9c-fc6b-6e2c-197a7)です。
 歌ありの曲ですが、なんと短調6度抜き、VI-V-VIm進行、Tresillo、発狂ピアノ、ありとあらゆる東方要素が揃っています。
 
-これを聞いて東方Projectの「Project」には幻想郷の「投影」という意味も含まれている、という考察を思い出しました。
-私たちが作品を通して見ているものは、現実でも夢でもなく、あくまでも「投影」されたイメージに過ぎない。ゆえに東方原作も、幻想郷を原点として翻案された「二次創作」である、と。
+これを聞いて、東方Projectの「Project」には、名詞の「企画」だけではなく、他動詞としての「投影する」という意味も含まれている、そんな考察を思い出しました。
+私たちが作品を通して見ているものは、現実でも夢でもなく、あくまでも投影された「写像」に過ぎない。ゆえに東方原作も、幻想郷を原点として翻案された「二次創作」である、と。
+
+ここで紹介してきた曲たちも、幻想郷に対する「写像」のひとつなのかも知れませんね。
 
 ## 5. 音楽生成AIは「ジェネリック」たり得るか？
 ところで最近、自動作曲（音楽生成）AIも広まってきたので、試しにSUNOに何曲か作らせてみました。
